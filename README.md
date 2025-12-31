@@ -13,4 +13,4 @@
 
 ## 📫 Let’s Connect
 - [Email Me](ismailridwan108@gmail.com)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- **LinkedIn**: [www.linkedin.com/in/ridwan-ismail-1715a41b1)
