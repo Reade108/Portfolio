@@ -1,7 +1,6 @@
 # Hi, Welcome to my portfolio ✋
 ## My name is Ridwan Ismail
-I’m a passionate **Data Analyst** with expertise in transforming data into actionable insights. My mission is to uncover meaningful patterns, solve problems, and communicate results effectively through compelling visualizations and models.
-
+ Welcome to my GitHub profile! I'm a Data Analyst who loves exploring, analyzing, and visualizing data to uncover insights that drive business decisions. With a background in **statistics**, **programming**, and **data visualization**, I enjoy solving real-world problems through data.
 ## 🌟 What I Do
 - **Data Exploration & Cleaning**: Making raw data usable with tools like Python (Pandas, NumPy) and Excel.
 - **Visualization**: Creating impactful dashboards and visualizations using Matplotlib, Seaborn, Power BI, and Tableau.
@@ -10,8 +9,8 @@ I’m a passionate **Data Analyst** with expertise in transforming data into act
 - **Database Queries**: Leveraging SQL to extract insights from relational databases.
 
  ## 🛠️ Tech Stack
-- **Languages**: Python, SQL
-- **Tools**: Jupyter Notebook, Power BI, Tableau, Excel
+- **Languages**:  SQL
+- **Tools**: Power BI, Tableau, Excel
 
 ## 📫 Let’s Connect
 - [Email Me](ismailridwan108@gmail.com)
